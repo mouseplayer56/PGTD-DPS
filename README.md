@@ -1,7 +1,7 @@
 # PGTD-DPS
 ### Calculate the DPS of towers in Pixel Gun Tower Defense (Roblox Game)!
 
-Yes, even though the game is long-dead because the group got removed for _???_, this acts as a basic resource for calculating DPS with weapon and character combos. I worked on this in June, but if it's highly sought-after I might update it with more features.
+Yes, even though the game is long-dead because the group got removed for _???_, this acts as a basic resource for calculating DPS with weapon and character combos. I worked on this in June, **but if it's highly sought-after I might update it with more features**.
 
 ![Image](https://github.com/user-attachments/assets/9196cbb9-d407-4f38-8985-695fdb57d15f)
 ![Image](https://github.com/user-attachments/assets/e9ebbf73-415e-4b12-b40f-dd04d9ec8b67)
